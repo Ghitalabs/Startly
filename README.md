@@ -1,2 +1,15 @@
 # Startly
-Building a research-backed AI system that helps people start tasks instantly by reducing cognitive friction.
+
+Helping people start when they can’t.
+
+---
+
+Startly is an ongoing project.
+
+This repository is used for building and experimentation.
+
+---
+
+## Status
+
+Early stage.
